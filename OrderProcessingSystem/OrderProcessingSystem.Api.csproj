@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\OrderProcessingSystem.Data\OrderProcessingSystem.Data.csproj" />
     <ProjectReference Include="..\OrderProcessingSystem.Messaging\OrderProcessingSystem.Messaging.csproj" />
+    <ProjectReference Include="..\OrderProcessingSystem.Models\OrderProcessingSystem.Models.csproj" />
     <ProjectReference Include="..\ServicesOrderProcessingSystem.Services\ServicesOrderProcessingSystem.Services.csproj" />
   </ItemGroup>
 
