@@ -48,6 +48,8 @@ namespace OrderProcessingSystem.Messaging
                                   autoAck: true,
                                   consumer: consumer);
         }
+    }
+}
 
 
 
